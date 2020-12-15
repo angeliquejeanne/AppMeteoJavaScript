@@ -6,7 +6,7 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
     color: grey;
-    background: lieanr-gradient(45deg, rgb(59,50,50), rgb(22,28,29));
+    background: lieanr-gradient(45deg, rgb(black,grey,lightgrey), rgb(lightgrey,grey,black));
     height: 100vh;
 }
 .container {
